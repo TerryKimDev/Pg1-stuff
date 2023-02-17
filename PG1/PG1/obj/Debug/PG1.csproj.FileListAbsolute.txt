@@ -1,0 +1,7 @@
+C:\Users\terry\OneDrive - Full Sail University\Desktop\Programming 1\PG1\PG1\bin\Debug\PG1.exe.config
+C:\Users\terry\OneDrive - Full Sail University\Desktop\Programming 1\PG1\PG1\bin\Debug\PG1.exe
+C:\Users\terry\OneDrive - Full Sail University\Desktop\Programming 1\PG1\PG1\bin\Debug\PG1.pdb
+C:\Users\terry\OneDrive - Full Sail University\Desktop\Programming 1\PG1\PG1\obj\Debug\PG1.csproj.AssemblyReference.cache
+C:\Users\terry\OneDrive - Full Sail University\Desktop\Programming 1\PG1\PG1\obj\Debug\PG1.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive - Full Sail University\Desktop\Programming 1\PG1\PG1\obj\Debug\PG1.exe
+C:\Users\terry\OneDrive - Full Sail University\Desktop\Programming 1\PG1\PG1\obj\Debug\PG1.pdb
