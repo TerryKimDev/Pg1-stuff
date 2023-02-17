@@ -1,0 +1,21 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\bin\Debug\Lab 3C.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\bin\Debug\Lab 3C.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\bin\Debug\Lab 3C.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\obj\Debug\Lab 3C.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\obj\Debug\Lab 3C.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\bin\Debug\Lab 3C.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\bin\Debug\Lab 3C.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\bin\Debug\Lab 3C.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\obj\Debug\Lab 3C.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3C\Lab 3C\obj\Debug\Lab 3C.pdb
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csproj.AssemblyReference.cache
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Lab 3C\Lab 3C\obj\Debug\Lab 3C.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Lab 3C\Lab 3C\obj\Debug\Lab 3C.exe
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Lab 3C\Lab 3C\obj\Debug\Lab 3C.pdb
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Lab 3C\Lab 3C\bin\Debug\Lab 3C.exe.config
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Lab 3C\Lab 3C\bin\Debug\Lab 3C.exe
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Lab 3C\Lab 3C\bin\Debug\Lab 3C.pdb

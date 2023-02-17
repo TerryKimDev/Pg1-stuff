@@ -1,0 +1,13 @@
+C:\Users\Joey\Desktop\student\Practice\bin\Debug\Practice.exe.config
+C:\Users\Joey\Desktop\student\Practice\bin\Debug\Practice.exe
+C:\Users\Joey\Desktop\student\Practice\bin\Debug\Practice.pdb
+C:\Users\Joey\Desktop\student\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Desktop\student\Practice\obj\Debug\Practice.exe
+C:\Users\Joey\Desktop\student\Practice\obj\Debug\Practice.pdb
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Practice\bin\Debug\Practice.exe.config
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Practice\bin\Debug\Practice.exe
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Practice\bin\Debug\Practice.pdb
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Practice\obj\Debug\Practice.exe
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\Practice\obj\Debug\Practice.pdb

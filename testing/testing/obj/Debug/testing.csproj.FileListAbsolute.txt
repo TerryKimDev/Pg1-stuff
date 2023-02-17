@@ -1,0 +1,7 @@
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\testing\testing\bin\Debug\testing.exe.config
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\testing\testing\bin\Debug\testing.exe
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\testing\testing\bin\Debug\testing.pdb
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\testing\testing\obj\Debug\testing.csproj.AssemblyReference.cache
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\testing\testing\obj\Debug\testing.exe
+C:\Users\terry\OneDrive - Full Sail University\Desktop\PG1\Working\testing\testing\obj\Debug\testing.pdb
